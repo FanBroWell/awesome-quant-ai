@@ -456,7 +456,6 @@ Seminal and recent research that advances the field of quantitative finance.
 - [Identifying States of a Financial Market](paper/Identifying%20States%20of%20a%20Financial%20Market.pdf) by Münnix et al. - Correlation-structure clustering to identify market states; basis for regime-detection approaches. (Local copy.)
 - [Memory Effects in Stock Price Dynamics](paper/Memory%20effects%20in%20stock%20price%20dynamics.pdf) - Analyzes long-memory and persistence phenomena in stock price dynamics. (Local copy.)
 
-
 ### AI Agents for Trading
 
 - [TradingAgents: Multi-Agents LLM Financial Trading Framework](https://arxiv.org/abs/2412.20138) by Xiao et al. (2024) - Multi-agent LLM framework simulating trading firm dynamics with specialized analyst and trader roles.

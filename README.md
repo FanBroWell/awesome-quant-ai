@@ -455,8 +455,7 @@ Seminal and recent research that advances the field of quantitative finance.
 
 - [Identifying States of a Financial Market](paper/Identifying%20States%20of%20a%20Financial%20Market.pdf) by Münnix et al. - Correlation-structure clustering to identify market states; basis for regime-detection approaches. (Local copy.)
 - [Memory Effects in Stock Price Dynamics](paper/Memory%20effects%20in%20stock%20price%20dynamics.pdf) - Analyzes long-memory and persistence phenomena in stock price dynamics. (Local copy.)
-- [CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets](https://arxiv.org/abs/2609.14205)  by Yu Peng et al. Accepted at ICDM 2026.  
-  Cross-asset state-space trading system combining collaborative Kalman filtering for drawdown-aware stock trading. [[Code](https://github.com/FanBroWell/CAST)]
+
 
 ### AI Agents for Trading
 
@@ -464,6 +463,10 @@ Seminal and recent research that advances the field of quantitative finance.
 - [FinAgent: A Multimodal Foundation Agent for Financial Trading](https://arxiv.org/abs/2402.18485) by Zhang et al. (2024) - Tool-augmented multimodal agent processing numerical, textual, and visual market data.
 - [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory](https://arxiv.org/abs/2311.13743) by Yu et al. (2023) - Trading agent with human-inspired layered memory and character design for improved decision-making.
 - [FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement](https://arxiv.org/abs/2407.06567) by Yu et al. (2024) - Manager-analyst agent hierarchy with risk control and self-critique, evaluated on trading and portfolio tasks.
+
+### Forecasting and Trading Systems
+
+- [CAST: A Cross-Asset State-Space Trading System for Drawdown Control in Stock Markets](https://arxiv.org/abs/2609.14205)  by Yu Peng et al. (2026). Cross-asset collaborative Kalman filter feeding a model-predictive controller that uses forecast uncertainty as an explicit risk penalty, four 30-stock panels (NASDAQ, CSI300, TPX100, a global basket) over a 2010-2025 frictionless backtest. ICDM 2026, [[Code](https://github.com/FanBroWell/CAST)].
 
 
 ## Original Research and Notes
